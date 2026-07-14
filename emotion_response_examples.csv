@@ -1,0 +1,46 @@
+text,emotion,confidence,response,field,timestamp
+i am confused in this coding,frustrated,98.98,"
+You are an AI learning assistant.
+
+Student Field: Computer Science
+Emotion: Frustrated
+Confidence: 98.98
+
+Problem:
+i am confused in this coding
+
+Give:
+1. Acknowledge the student's emotion.
+2. One field-specific learning tip.
+3. One encouraging next step.
+
+Keep response short.
+",Computer Science,2026-07-14T14:14:38.265183
+i am confused in trignometry,frustrated,99.04,Relax for a few minutes and solve easier questions first.,Computer Science,2026-07-14T16:34:24.812439
+i am confused in matrix,frustrated,99.01,Relax for a few minutes and solve easier questions first.,Computer Science,2026-07-14T16:36:40.482562
+i am confused in recursion,frustrated,98.88,Relax for a few minutes and solve easier questions first.,Computer Science,2026-07-14T16:55:21.847090
+i am confused in matrix,frustrated,99.01,Relax for a few minutes and solve easier questions first.,Computer Science,2026-07-14T17:06:25.740997
+i am confused in matrix,frustrated,99.01,Relax for a few minutes and solve easier questions first.,Computer Science,2026-07-14T17:33:01.367200
+i am frustrated with python coding,curious,98.73,Explore additional articles or practice projects related to this topic.,Computer Science,2026-07-14T17:40:54.861223
+i am curious about this physics quiestion,frustrated,93.83,Relax for a few minutes and solve easier questions first.,Computer Science,2026-07-14T17:51:57.686075
+"I am confused about matrices
+I am curious about AI
+This topic is boring
+I am frustrated with coding",curious,57.03,Explore additional articles or practice projects related to this topic.,Computer Science,2026-07-14T18:08:03.327661
+i am confused in matrix,frustrated,99.01,Relax for a few minutes and solve easier questions first.,Computer Science,2026-07-14T18:20:41.552611
+i am frustrated with python programming,curious,98.75,Explore additional articles or practice projects related to this topic.,Computer Science,2026-07-14T18:25:43.009774
+i am confused in maths problem,frustrated,99.05,Relax for a few minutes and solve easier questions first.,Computer Science,2026-07-14T18:28:58.386412
+i am frustrated with coding,curious,98.73,Explore additional articles or practice projects related to this topic.,Computer Science,2026-07-14T18:46:05.989128
+i am frustrated with coding,curious,98.73,Explore additional articles or practice projects related to this topic.,Computer Science,2026-07-14T18:47:53.446506
+i am not confident in coding,confident,99.7,Great! Move on to more challenging concepts.,Computer Science,2026-07-14T19:06:28.599096
+I am confused about matrices,frustrated,98.96,"I completely understand your frustration—hitting a roadblock with matrices can be incredibly annoying, especially when you are otherwise feeling highly confident in your computer science skills. 
+
+**CS Learning Tip:** 
+Try visualizing matrices as **2D arrays** or grids in code. Instead of seeing abstract math symbols, think of a matrix as an image (where each element is a pixel coordinate) or a game board. Mapping matrix operations (like transposition or multiplication) to nested loops in a programming language you know can make the concepts feel much more concrete.
+
+**Encouraging Next Step:** 
+Let's demystify this together. Why don't we start by looking at how a simple 2x2 matrix translates into code, and we can build up to matrix multiplication from there?",Computer Science,2026-07-14T19:18:56.804410
+i am happy by doing maths problem,confident,99.57,"It is fantastic to see you feeling so confident and finding genuine joy in mathematics! That passion is a massive superpower in Computer Science.
+
+* **CS Learning Tip:** Connect math to coding by translating mathematical equations (like summation or matrix multiplication) into code. This is the exact foundation of algorithm design and machine learning.
+* **Encouraging Next Step:** Channel this energy into exploring **Discrete Mathematics** or **Graph Theory**. You will love seeing how mathematical logic directly powers things like social network algorithms and search engines!",Computer Science,2026-07-14T19:23:31.445445
